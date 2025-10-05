@@ -1,0 +1,40 @@
+{
+	"name": "vscode-theme-andaman",
+	"displayName": "Andaman Theme",
+	"description": "Visual Studio Code dark theme.",
+	"version": "1.0.0",
+	"publisher": "Alexanderius",
+	"license": "LGPLv3",
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#2d2d2d",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/i4004/vscode-theme-andaman"
+	},
+	"bugs": {
+		"url": "https://github.com/i4004/vscode-theme-andaman/issues"
+	},
+	"engines": {
+		"vscode": "^1.42.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"andaman",
+		"theme",
+		"dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Andaman",
+				"uiTheme": "vs-dark",
+				"path": "./themes/andaman.json"
+			}
+		]
+	}
+}
