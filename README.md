@@ -1,6 +1,6 @@
 # Andaman Theme
 
-![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/main/images/icon150x150.png)
+![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/master/images/icon150x150.png)
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/alexanderius.vscode-theme-andaman.png)](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-andaman)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/alexanderius.vscode-theme-andaman.png)](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-andaman)
@@ -21,20 +21,20 @@ To enable C# semantic highlighting support you need to install [C# extension for
 
 ### Overview and C#
 
-![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/main/images/screenshots/csharp-and-overview.png)
+![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/master/images/screenshots/csharp-and-overview.png)
 
 ### C#
 
-![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/main/images/screenshots/csharp2.png)
+![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/master/images/screenshots/csharp2.png)
 
 ### XML
 
-![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/main/images/screenshots/xml.png)
+![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/master/images/screenshots/xml.png)
 
 ### JSON
 
-![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/main/images/screenshots/json.png)
+![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/master/images/screenshots/json.png)
 
 ## Markdown
 
-![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/main/images/screenshots/markdown.png)
+![Andaman Icon](https://github.com/i4004/vscode-theme-andaman/raw/master/images/screenshots/markdown.png)
