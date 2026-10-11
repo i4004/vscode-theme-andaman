@@ -2,7 +2,7 @@
 	"name": "vscode-theme-andaman",
 	"displayName": "Andaman Theme",
 	"description": "Visual Studio Code dark theme.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "Alexanderius",
 	"license": "GPLv3",
 	"icon": "images/icon.png",
